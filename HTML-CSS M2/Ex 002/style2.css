@@ -1,0 +1,33 @@
+@charset "UTF-8";
+GET /v19.0/instagram_oembed HTTP/1.1
+Host: graph.facebook.com
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right ,#eeaeca ,#94bbe9);
+}
+
+main{
+    background-color: #fff;
+    width: 600px;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
+}
+
+h1{
+    color: #eeaeca ;
+    text-align: center;
+    text-shadow: 1px 1px 2px ;
+}
+
+h2{
+    color: #94bbe9;
+}
+
+p{
+    text-align: justify;
+}

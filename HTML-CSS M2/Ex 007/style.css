@@ -1,0 +1,19 @@
+h1{
+    background-color: lightgray;
+    height: 300px;
+    width: 400px;
+    border: 10px solid black;
+    padding: 10px 25px;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    border: 1px dashed black;
+    text-decoration: none;
+}

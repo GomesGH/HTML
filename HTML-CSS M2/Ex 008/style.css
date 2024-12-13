@@ -1,0 +1,47 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgray;
+    padding: 25px;
+}
+
+header{
+    background-color: rgb(167, 167, 167);
+    height: 90px;
+    text-align: center;
+}
+
+nav{
+    
+}
+
+main{
+    background-color: bisque;
+}
+
+article>h2{
+    text-align: center;
+}
+
+article>p{
+    background-color: rgba(245, 245, 220, 0.486);
+}
+
+aside{
+    background-color: lightgray;
+    color: brown;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: cornflowerblue;
+}
